@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-fullstack-calculator-92910-92919/calculator_backend"
+}
